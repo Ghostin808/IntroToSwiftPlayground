@@ -20,3 +20,7 @@ var thirdString = "you are a bold one!"
 var myFourthVariable = oneString + secondString + thirdString
 print(myFourthVariable)
 //completed Swift Playgrounds #1
+
+//Assignment#2 Introduction to True and False
+var appstate = false
+print(appstate)
