@@ -24,3 +24,14 @@ print(myFourthVariable)
 //Assignment#2 Introduction to True and False
 var appstate = false
 print(appstate)
+
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+var Ichi = "1"
+var Uno = "1"
+
+var equalto = Ichi == Uno
+print(equalto)
